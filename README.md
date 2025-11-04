@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qwert5558&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwert5558&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
