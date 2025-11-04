@@ -10,10 +10,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/qwert5558/qwert5558/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">Програмирую на</p>
 
 ###
